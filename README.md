@@ -66,12 +66,11 @@ The dataset contains session-level user behavior such as page visits, time spent
 
 | Metric    | Score  |
 | --------- | ------ |
-| Accuracy  | ~85.6% |
-| Precision | ~52%   |
-| Recall    | ~82%   |
-| F1 Score  | ~64%   |
+| Accuracy  | ~90.6% |
+| Precision | ~72.8%   |
+| Recall    | ~63.6%   |
+| F1 Score  | ~67.9%   |
 | ROC-AUC   | ~0.93  |
-| PR-AUC    | ~0.72  |
 
 ---
 
