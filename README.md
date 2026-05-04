@@ -124,8 +124,8 @@ Top contributing features:
 ## 📁 Project Structure
 
 ```
-├── data/
-├── capstoneProject.ipynb
+├── online_shoppers_intention.csv
+├── capstoneproject.ipynb
 ├── requirements.txt
 └── Project Report.pdf
 └── README.md
